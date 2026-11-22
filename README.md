@@ -35,7 +35,7 @@ I believe in building with purpose: clear problem-solving, thoughtful design, pr
 
 ## Featured Project
 
-### [Digital Marketplace](https://github.com/digitalhanif/digital-marketplace-public)
+### [Digital Marketplace](https://github.com/digitalhanif/digital-marketplace)
 
 An AI-powered research and business intelligence toolkit for product discovery, market analysis, competitor research, keyword intelligence, opportunity evaluation, and data-informed business planning.
 
