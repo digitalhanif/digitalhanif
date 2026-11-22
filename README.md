@@ -36,7 +36,7 @@ I'm especially interested in connecting established digital strategy principles 
 
 ## Featured Project
 
-### [Digital Hanif Etsy Intelligence Pro](https://github.com/digitalhanif/digital-hanif-etsy-intelligence-pro)
+### [Digital Hanif Etsy Intelligence Pro](https://github.com/digitalhanif/etsy-intelligence-pro)
 
 An independent Etsy market research and decision-support toolkit focused on product discovery, competition, keyword opportunities, opportunity scoring, and structured launch planning.
 
